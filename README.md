@@ -10,7 +10,7 @@ I'm Paul Poirier a french student in computer science. I 'm specialize in softwa
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [Java](https://www.java.com/fr/)
 - 🔭 I’m currently making research on [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system)
 
-[![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)]([https://www.python.org/](https://developer.mozilla.org/fr/docs/Web/JavaScript))
+[![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](http://www.open-std.org/jtc1/sc22/wg14/)
 [![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io/)
