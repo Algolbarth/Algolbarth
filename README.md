@@ -2,7 +2,7 @@
 
 I'm Paul Poirier a french student in computer science. I want to specialize in software development and fullstack dev.
 
-- 🌱 I’m currently learning [Svelte]([https://website-name.com](https://svelte.dev/))
+- 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [Java](https://www.java.com/fr/)
 
 <!--
 **Algolbarth/Algolbarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
