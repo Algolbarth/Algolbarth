@@ -19,7 +19,7 @@ I'm Paul Poirier a french student in computer science. I 'm specialize in softwa
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](http://www.open-std.org/jtc1/sc22/wg14/)
 [![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java%2B%2B&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -30,4 +30,3 @@ I'm Paul Poirier a french student in computer science. I 'm specialize in softwa
 [![Overleaf](https://img.shields.io/badge/overleaf-%23008080.svg?style=for-the-badge&logo=overleaf&logoColor=white)](https://fr.overleaf.com/)
 
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-
