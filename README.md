@@ -1,4 +1,4 @@
-<a href="mailto:paul.poirier@live.fr@melois.dev"><img alt="Protonmail" src="https://img.shields.io/badge/Paul%20Poirier-%230077B5.svg?style=flat&logo=protonmail&logoColor=white"></a>
+<a href="mailto:paul.poirier@live.fr@melois.dev"><img alt="Protonmail" src="https://img.shields.io/badge/Paul%20Poirier-%230077B5.svg?style=flat&logo=mail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/paul-poirier-612b48264/"><img alt="LinkedIn" src="https://img.shields.io/badge/Paul%20Poirier-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.com/users/Algolbarth"><img alt="Discord" src="https://img.shields.io/badge/Algolbarth-%235865F2.svg?style=flat&logo=discord&logoColor=white"></a>
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img alt="View counter" src="https://komarev.com/ghpvc/?username=Algolbarth&color=green"></a>
