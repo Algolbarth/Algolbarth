@@ -15,7 +15,7 @@ I'm Paul Poirier a french student in computer science. I 'm specialize in softwa
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red)](https://reactjs.org/)
-[![Svelte](https://img.shields.io/badge/svelte-%2320232a.svg?style=for-the-badge&logo=svelte&logoColor=orange)](https://reactjs.org/)
+[![Svelte](https://img.shields.io/badge/svelte-black.svg?style=for-the-badge&logo=svelte&logoColor=orange)](https://reactjs.org/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
