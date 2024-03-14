@@ -9,7 +9,6 @@ I'm Paul Poirier a french student in computer science. I'm specialize in softwar
 
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [Java](https://www.java.com/)
 - 🔭 I’m currently making research on [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system)
-- 
 
 ### Web languages :
 
