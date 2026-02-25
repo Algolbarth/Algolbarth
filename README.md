@@ -5,9 +5,9 @@
 
 ### Hi there, 👋
 
-I'm Paul Poirier a french student in computer science. I'm specialize in software creation and fullstack development.
+I'm Paul Poirier a french engineer in computer science. I'm specialize in software creation and fullstack development.
 
-- 🌱 I’m currently learning [GAML](https://gama-platform.org/wiki/GamlLanguage)
+- 🌱 I’m currently learning [Tauri](https://v2.tauri.app) and [Rust](https://rust-lang.org)
 - 🔭 I’m currently making research on [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system)
 
 ### Web languages :
